@@ -12,7 +12,6 @@
         <module>Common</module>
         <module>Box</module>
         <module>Jive</module>
-        <module>Ipdslogs</module>
         <module>Launcher</module>
     </modules>
 
