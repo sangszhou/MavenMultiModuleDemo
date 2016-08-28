@@ -7,8 +7,8 @@ import org.springframework.context.annotation.ComponentScan;
 /**
  * Created by xinszhou on 16/8/28.
  */
-@ComponentScan(basePackages = {"routers"})
 @SpringBootApplication
+@ComponentScan(basePackages = {"routers"})
 public class Boot {
     public static void main(String[] args) {
         SpringApplication.run(Boot.class, args);
