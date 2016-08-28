@@ -14,7 +14,7 @@ same is true of `Jive`(this module is empty for now)
  In `Launcher`'s pom file, box and common dependencies are declared so `/box` and `/common` routes are
  added into existing routes.
  
- ### Question
+### Question
  
  Available adoptions are all added into fat jar in default. But in some situations,
  only a portion of adoptions are needed, how to dynamically add/remove dependencies when packaging?
